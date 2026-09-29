@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: cursive;
+}
+h1{
+    margin: 1;
+}
+table{
+    margin: 2% 25%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+
+tr , th , td{
+    padding: 10px;
+}
+h1{
+    border: 1px solid black;
+    display: inline-flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 0;
+    margin-right: 120%;
+    padding: 1px 256px;
+    background-color: rgb(89, 103, 9);
+    color: white;
+    width:27%;
+}
